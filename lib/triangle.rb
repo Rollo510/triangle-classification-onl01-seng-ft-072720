@@ -1,10 +1,10 @@
 class Triangle
 
-attr_accessor :,   
+attr_accessor  :isosceles, :scalene, :equilateral
   
   
   
-def initialize(a, b, c)
+def initialize()
   
 end
   
