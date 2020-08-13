@@ -8,6 +8,7 @@ def initialize(side_one, side_two, side_three)
 end
   
 def kind
+  if @side_one <= 0 |
   
 end
 
